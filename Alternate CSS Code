@@ -202,7 +202,7 @@ div.favorite.module {
   transform: translateY(-45%);
   width: 80px;
   height: 120px;
-  background-image: url("https://i.postimg.cc/bwV3bMgv/Fav-Tags.png");
+  background-image: url("https://i.postimg.cc/J7jHfYGY/Fav-Tags.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
