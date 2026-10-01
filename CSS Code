@@ -202,7 +202,7 @@ div.favorite.module {
   transform: translateY(-45%);
   width: 80px;
   height: 120px;
-  background-image: url("https://64.media.tumblr.com/4e8d62ed09b249f5d1e043a4145c42ea/7c93102a6f4d7f95-17/s540x810/763de0d148ed652f480f3cf4460ec544e0b6775b.png");
+  background-image: url("https://64.media.tumblr.com/adde4a49703af6b3ef0a291056147bbf/5e157257acc9a23f-c9/s250x400/ba8a9d9f33632815c83094620f01bc2ba2ad954b.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
